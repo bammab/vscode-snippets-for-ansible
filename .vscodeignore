@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+**/*.xcf
+**/*.svg
+generator/**
+images/video/**
+images/*.md

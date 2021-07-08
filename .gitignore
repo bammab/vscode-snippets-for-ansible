@@ -1,0 +1,7 @@
+node_modules
+*.vsix
+/images/video/
+/images/Ansible*.svg
+/generator/*.yml
+/generator/*.json
+/generator/*.html
