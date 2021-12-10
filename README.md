@@ -32,6 +32,11 @@ If the snippets doesn't load after install, try to reload your VS Code.
 
 ## Release Notes
 
+### 1.0.1
+
+- Add keyword for easier search on markplaces
+- Add licence to meta data
+
 ### 1.0.0
 
 Initial public release of this extension. Snippets build for/with ansible v2.9.

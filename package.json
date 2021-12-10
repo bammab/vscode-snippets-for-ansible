@@ -2,13 +2,17 @@
     "name": "vscode-snippets-for-ansible",
     "displayName": "VSCode snippets for Ansible",
     "description": "Provide an automatically build set of snippets for ansible modules.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.57.0"
     },
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+        "ansible"
+    ],
+    "license" : "GPL-3.0",
     "contributes": {
         "snippets": [
             {
