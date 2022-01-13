@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.0] - 2022-01-10
+### Added
+- Add support for file type "ansible" used by [Ansible plugin](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
+
 ## [1.0.1] - 2021-12-10
 ### Added
 - Keyword for easier search on markplaces

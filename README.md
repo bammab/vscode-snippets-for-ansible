@@ -32,6 +32,10 @@ If the snippets doesn't load after install, try to reload your VS Code.
 
 ## Release Notes
 
+### 1.1.0
+
+- Add support for file type "ansible" used by [Ansible plugin](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
+
 ### 1.0.1
 
 - Add keyword for easier search on markplaces
